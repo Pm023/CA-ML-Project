@@ -1,0 +1,9 @@
+CA-ML/
+│
+├── data.py              # Dataset loading
+├── train_model.py       # Model training logic
+├── test_model.py        # Evaluation & metrics
+├── carbon_tracker.py    # CodeCarbon integration
+├── main.py              # Main execution file
+├── requirements.txt
+└── README.md
